@@ -16,5 +16,5 @@ I am interested in the following topics: **Deep Learning for Computer Vision, LL
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanggolder&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
 
 <a href="https://github.com/Khanggolder/Metro_Safety_Monitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khanggolder&repo=Metro_Safety_Monitor&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khanggolder&repo=Metro_Safety_Monitor&theme=radical" />
 </a>

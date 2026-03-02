@@ -5,8 +5,7 @@ I am interested in the following topics: **Deep Learning for Computer Vision, LL
 
 
 <h2>Socials:</h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KhangNguyen-blue?logo=linkedin)](https://www.linkedin.com/in/khanggolder/)
-[![GitHub](https://img.shields.io/badge/GitHub-Khanggolder-black?logo=github)](https://github.com/Khanggolder)
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/khanggolder/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 <a href="https://youtube.com/@@Khanggolder" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&amp;logoColor=white" alt="YouTube"></a>
 <a href="mailto:khanggolder2209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" alt="email"></a>
 <h2>Tech Stack:</>

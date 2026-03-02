@@ -5,10 +5,8 @@ I am interested in the following topics: **Deep Learning for Computer Vision, LL
 
 ## 📫 How to reach me:
 
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/khanggolder/)
-[![GitHub](https://avatars.githubusercontent.com/u/200953252?v=4)](https://github.com/Khanggolder)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KhangNguyen-blue?logo=linkedin)](https://www.linkedin.com/in/khanggolder/)
+[![GitHub](https://img.shields.io/badge/GitHub-Khanggolder-black?logo=github)](https://github.com/Khanggolder)
 
 <a href="https://github.com/Khanggolder/Metro_Safety_Monitor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khanggolder&repo=Metro_Safety_Monitor&theme=radical" />

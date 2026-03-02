@@ -1,4 +1,4 @@
-### WELCOME TO MY PAGE 👋👋👋
+<h2>WELCOME TO MY PAGE 👋👋</h2>
 
 My name is Khang Nguyen. I am a Computer Science Student at University of Transport Ho Chi Minh City.  
 I am interested in the following topics: **Deep Learning for Computer Vision, LLM.**

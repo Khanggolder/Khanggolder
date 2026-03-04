@@ -29,3 +29,7 @@ I am interested in the following topics: **Deep Learning for Computer Vision, LL
 <a href="https://github.com/Khanggolder/Metro_Safety_Monitor">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khanggolder&repo=Metro_Safety_Monitor&theme=radical&v=2" />
 </a>
+<a href="https://github.com/vietnh1009/Flappy-bird-deep-Q-learning-pytorch/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khanggolder&repo=Fraud_Detection_System
+&theme=onedark&v=2" />
+</a>   

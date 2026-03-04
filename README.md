@@ -30,5 +30,5 @@ I am interested in the following topics: **Deep Learning for Computer Vision, LL
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khanggolder&repo=Metro_Safety_Monitor&theme=radical&v=2" />
 </a>
 <a href="https://github.com/Khanggolder/Fraud_Detection_System">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khanggolder&repo=Fraud_Detection_System&theme=merko&v=2" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khanggolder&repo=Fraud_Detection_System&theme=highcontrast&v=2" />
 </a>
